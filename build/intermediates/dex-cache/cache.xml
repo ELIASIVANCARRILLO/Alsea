@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-5397bddaa8d10578162ff05fdce3f15145d8639c.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-b63dbf85007eb99e4e76f6919176e37c3cda810d.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-26ebbe191989547fd2139c08e153bd7397bbd800.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-dc3ac71d0a6d6a664695a52e6657f273f59361b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-da5c9ae54ba89021690e9649bf770deee4dedd16.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-7007779ea277bb9a9addc6ccc15c38acff039c31.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-81b96312a0f0eddf9055095cbd800c002a4126b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-ca7b4151ff9d6db68274223c24c99e6d4078bddf.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-b24e4bfe17776f00e132bc9bc5b51031a3325c4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-225c290ff40842ae8b1a64b30271708b060b37fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-9ce9f9a1ccb3dd8f5799055b4d3c300828cbd379.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\Documents\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-d096493d4359dcb459d04cf790ce298d1595fde7.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-b4a822aac38be137b3a2ab522c287e881cca4686.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-03c6aa8b086f28c7bbcc098693b4c2d59d117999.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-bb78d7eff3009eb620e3980c1169164b783d8f7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-b9f9b69aa3b68def1d2b7bb3edfc1092e7ee9ab7.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-bdda3fa127c7c54b58724980a123c2266b73b36b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.13\a440963ca327ef2056c3b87b50bc7834e64f741c\com.android.volley-2015.05.13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a440963ca327ef2056c3b87b50bc7834e64f741c">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.05.13-ff5c1f97e8c27d9186bd9de134f7c6189bdf046b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-5cdd87d8828e454f95874266287b42f54e8a5682.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-7afa3e9f52754b5abfa340a4b14df2f981a676a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-cb98c5e1f71ca3f99ff253577aabd5f38ab267dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-e30109d12c2064fa53313befb6cd49c80195691c.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-6403ca79eee55f255e01e6f31ceb7a4cfa5234ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-b0b5b4893b3486d007dc58c3f16455832496d51b.jar" />
+    </item>
+    <item
+        jar="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\cage\AndroidStudioProjects\TestAlsea\app\build\intermediates\pre-dexed\debug\classes-af4cd03984a42c072460a3f2c027b1ffbd654da4.jar" />
+    </item>
+
+</items>
